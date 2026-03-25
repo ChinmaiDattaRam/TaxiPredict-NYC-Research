@@ -17,6 +17,11 @@ This repository contains the complete pipeline for predicting NYC taxi trip dura
 ## Performance
 Based on the experiments in the paper, **XGBoost** achieved the best results with an $R^2$ score of approximately **0.90** and an MAE of **1.6 minutes**.
 
+## Dataset
+The project uses the **2024 NYC Yellow Taxi Trip Records**.
+- **Source**: [NYC TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+- **File Requirement**: Place the dataset in the root directory and rename it to `ML_AAT.csv`.
+
 ## Usage
 1. Clone the repository.
 2. Install dependencies: `pip install -r requirements.txt`.
