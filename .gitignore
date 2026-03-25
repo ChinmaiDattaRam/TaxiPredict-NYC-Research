@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+
+# Data and Papers (Large files)
+*.csv
+*.pdf
+experiment_log.txt
+
+# IDEs
+.vscode/
+.idea/
